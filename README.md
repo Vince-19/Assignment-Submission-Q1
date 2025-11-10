@@ -25,7 +25,7 @@ HOW TO COMPILE & RUN:
 
 	5. Finally, in the terminal/command prompt direct yourself to where you have the updated a3_app.py saved and use the command "python3 a3_app.py" to run the application
 
-	6. Once you run the program you should be treated and prompted to enter 'c' to continue. Once done you should see a menu that looks like this to be able to edit your DB.
+	6. Once you run the program you should be treated and prompted to enter 'c' to continue. Once done you should see a menu that looks like the DATABASE OPTIONS MENU below:
 
 ==== DATABASE OPTIONS MENU ====
 1. View all students
